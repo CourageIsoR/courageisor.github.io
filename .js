@@ -1,0 +1,1 @@
+jsdocument.getElementById("update-btn").addEventListener("click", function() {    document.getElementById("text-content").innerText = "You clicked the button! 🎉 Feel free to modify this message.";});
